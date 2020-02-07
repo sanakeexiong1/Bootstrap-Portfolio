@@ -23,6 +23,20 @@
     
 }
 
+.contentHolderPortfolio {
+    width: 960px;
+    height: 800px;
+    background-color: #ffffff;
+    border-color: #dddddd;
+    margin-top: 2%;
+    border-style: solid;
+    border-color: #dddddd;
+    border-width: 2px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 p.intro {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 12px;
@@ -105,4 +119,12 @@ p.submit {
     font-family: Arial, Helvetica, sans-serif;
     color: white;
     margin: 10px 0px 0px 0px;
+}
+
+.img-thumbnail {
+    margin: 3%;
+}
+
+.container {
+    margin-top: 25px;
 }
