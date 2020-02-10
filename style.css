@@ -128,3 +128,61 @@ p.submit {
 .container {
     margin-top: 25px;
 }
+
+.centered {
+    position: absolute;
+    top: 52%;
+    left: 27%;
+    transform: translate(-50%, -50%);
+    background-color: #4aaaa5;
+    width: 250px;
+    text-align: center;
+}
+
+.centeredDurian {
+    position: absolute;
+    top: 52%;
+    left: 44%;
+    transform: translate(-50%, -50%);
+    background-color: #4aaaa5;
+    width: 250px;
+    text-align: center;
+}
+
+.centeredHibiscus {
+position: absolute;
+top: 52%;
+left: 61%;
+transform: translate(-50%, -50%);
+background-color: #4aaaa5;
+width: 250px;
+text-align: center;
+}
+
+.centeredFox{
+    position: absolute;
+    bottom: 20%;
+    left: 44%;
+    transform: translate(-50%, -50%);
+    background-color: #4aaaa5;
+    width: 250px;
+    text-align: center;
+}
+
+.centeredCherry {
+    position: absolute;
+    bottom: 20%;
+    left: 61%;
+    transform: translate(-50%, -50%);
+    background-color: #4aaaa5;
+    width: 250px;
+    text-align: center;
+}
+
+.row {
+    padding: 5px;
+}
+
+.card-img-overlay {
+
+}
